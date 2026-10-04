@@ -7,3 +7,6 @@ h1{
 h3{
     color: rgb(19, 136, 136);
 }
+article{
+    display: flex;justify-content: space-between;
+}
